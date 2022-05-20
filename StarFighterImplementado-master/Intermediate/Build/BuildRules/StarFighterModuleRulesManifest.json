@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\SIS457\\Trabajos Unreal Engine\\StarFighterImplementado\\Source\\StarFighter\\StarFighter.Build.cs",
+		"C:\\SIS457\\Trabajos Unreal Engine\\StarFighterImplementado\\Source\\StarFighter.Target.cs",
+		"C:\\SIS457\\Trabajos Unreal Engine\\StarFighterImplementado\\Source\\StarFighterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
